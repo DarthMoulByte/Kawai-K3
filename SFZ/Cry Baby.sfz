@@ -1,0 +1,148 @@
+// this file was generated from Cry Baby.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=24 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=801 end=453119 loop_mode=loop_sustain loop_start=143885 loop_end=200473 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-24-127.wav
+<group> key=25 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1299 end=453631 loop_mode=loop_sustain loop_start=163546 loop_end=247489 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-25-127.wav
+<group> key=26 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=752 end=453119 loop_mode=loop_sustain loop_start=129816 loop_end=185036 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-26-127.wav
+<group> key=27 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=665 end=454143 loop_mode=loop_sustain loop_start=180422 loop_end=264326 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-27-127.wav
+<group> key=28 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=529 end=452095 loop_mode=loop_sustain loop_start=190500 loop_end=263268 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-28-127.wav
+<group> key=29 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=708 end=452607 loop_mode=loop_sustain loop_start=202068 loop_end=274814 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-29-127.wav
+<group> key=30 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=452 end=452607 loop_mode=loop_sustain loop_start=122571 loop_end=178787 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-30-127.wav
+<group> key=31 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=627 end=453119 loop_mode=loop_sustain loop_start=290956 loop_end=380058 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-31-127.wav
+<group> key=32 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=983 end=453119 loop_mode=loop_sustain loop_start=161722 loop_end=245190 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-32-127.wav
+<group> key=33 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=788 end=453631 loop_mode=loop_sustain loop_start=282764 loop_end=383814 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-33-127.wav
+<group> key=34 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=904 end=451583 loop_mode=loop_sustain loop_start=154355 loop_end=227008 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-34-127.wav
+<group> key=35 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=845 end=453119 loop_mode=loop_sustain loop_start=260797 loop_end=322226 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-35-127.wav
+<group> key=36 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=668 end=452607 loop_mode=loop_sustain loop_start=216859 loop_end=278207 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-36-127.wav
+<group> key=37 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=803 end=453119 loop_mode=loop_sustain loop_start=273390 loop_end=384780 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-37-127.wav
+<group> key=38 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=310 end=453119 loop_mode=loop_sustain loop_start=178782 loop_end=363054 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-38-127.wav
+<group> key=39 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=800 end=453119 loop_mode=loop_sustain loop_start=123153 loop_end=307278 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-39-127.wav
+<group> key=40 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=678 end=452095 loop_mode=loop_sustain loop_start=135376 loop_end=196923 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-40-127.wav
+<group> key=41 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=780 end=453119 loop_mode=loop_sustain loop_start=192812 loop_end=377218 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-41-127.wav
+<group> key=42 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=685 end=453119 loop_mode=loop_sustain loop_start=210555 loop_end=271587 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-42-127.wav
+<group> key=43 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=843 end=453119 loop_mode=loop_sustain loop_start=155237 loop_end=216899 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-43-127.wav
+<group> key=44 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=478 end=453119 loop_mode=loop_sustain loop_start=149875 loop_end=384371 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-44-127.wav
+<group> key=45 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=931 end=453119 loop_mode=loop_sustain loop_start=196200 loop_end=257545 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-45-127.wav
+<group> key=46 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=844 end=452607 loop_mode=loop_sustain loop_start=135678 loop_end=196988 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-46-127.wav
+<group> key=47 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=874 end=453119 loop_mode=loop_sustain loop_start=204321 loop_end=265759 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-47-127.wav
+<group> key=48 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=783 end=452607 loop_mode=loop_sustain loop_start=166043 loop_end=227403 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-48-127.wav
+<group> key=49 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=809 end=452607 loop_mode=loop_sustain loop_start=173386 loop_end=234803 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-49-127.wav
+<group> key=50 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=946 end=453631 loop_mode=loop_sustain loop_start=274431 loop_end=335709 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-50-127.wav
+<group> key=51 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=790 end=453631 loop_mode=loop_sustain loop_start=268859 loop_end=330098 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-51-127.wav
+<group> key=52 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=622 end=452607 loop_mode=loop_sustain loop_start=269297 loop_end=330850 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-52-127.wav
+<group> key=53 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=937 end=453119 loop_mode=loop_sustain loop_start=321566 loop_end=382942 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-53-127.wav
+<group> key=54 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=944 end=453631 loop_mode=loop_sustain loop_start=227185 loop_end=361178 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-54-127.wav
+<group> key=55 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=789 end=452095 loop_mode=loop_sustain loop_start=126166 loop_end=372141 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-55-127.wav
+<group> key=56 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=587 end=453119 loop_mode=loop_sustain loop_start=134402 loop_end=368902 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-56-127.wav
+<group> key=57 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=518 end=453119 loop_mode=loop_sustain loop_start=140552 loop_end=363892 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-57-127.wav
+<group> key=58 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=725 end=452607 loop_mode=loop_sustain loop_start=158287 loop_end=364922 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-58-127.wav
+<group> key=59 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=541 end=453119 loop_mode=loop_sustain loop_start=182074 loop_end=377644 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-59-127.wav
+<group> key=60 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=851 end=453119 loop_mode=loop_sustain loop_start=155361 loop_end=339619 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-60-127.wav
+<group> key=61 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=434 end=452095 loop_mode=loop_sustain loop_start=210770 loop_end=383735 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-61-127.wav
+<group> key=62 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=733 end=453119 loop_mode=loop_sustain loop_start=145713 loop_end=318877 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-62-127.wav
+<group> key=63 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=668 end=453119 loop_mode=loop_sustain loop_start=196502 loop_end=352874 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-63-127.wav
+<group> key=64 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=810 end=452607 loop_mode=loop_sustain loop_start=130629 loop_end=281162 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-64-127.wav
+<group> key=65 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=852 end=453119 loop_mode=loop_sustain loop_start=249290 loop_end=383551 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-65-127.wav
+<group> key=66 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=734 end=452607 loop_mode=loop_sustain loop_start=239347 loop_end=373218 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-66-127.wav
+<group> key=67 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=877 end=453119 loop_mode=loop_sustain loop_start=156494 loop_end=279476 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-67-127.wav
+<group> key=68 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=835 end=453631 loop_mode=loop_sustain loop_start=124012 loop_end=358729 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-68-127.wav
+<group> key=69 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=384 end=453119 loop_mode=loop_sustain loop_start=264232 loop_end=375802 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-69-127.wav
+<group> key=70 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=679 end=452095 loop_mode=loop_sustain loop_start=136919 loop_end=348962 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-70-127.wav
+<group> key=71 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=700 end=453119 loop_mode=loop_sustain loop_start=200394 loop_end=300860 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-71-127.wav
+<group> key=72 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=486 end=452607 loop_mode=loop_sustain loop_start=167284 loop_end=351801 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-72-127.wav
+<group> key=73 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=532 end=453119 loop_mode=loop_sustain loop_start=129160 loop_end=302525 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-73-127.wav
+<group> key=74 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=508 end=453119 loop_mode=loop_sustain loop_start=142912 loop_end=226641 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-74-127.wav
+<group> key=75 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=939 end=453631 loop_mode=loop_sustain loop_start=121180 loop_end=355727 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-75-127.wav
+<group> key=76 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=920 end=452095 loop_mode=loop_sustain loop_start=166382 loop_end=239103 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-76-127.wav
+<group> key=77 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=745 end=453119 loop_mode=loop_sustain loop_start=179162 loop_end=251594 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-77-127.wav
+<group> key=78 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=515 end=453119 loop_mode=loop_sustain loop_start=140676 loop_end=274488 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-78-127.wav
+<group> key=79 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=798 end=453119 loop_mode=loop_sustain loop_start=184643 loop_end=246301 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-79-127.wav
+<group> key=80 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=854 end=453119 loop_mode=loop_sustain loop_start=135578 loop_end=370177 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-80-127.wav
+<group> key=81 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=366 end=453119 loop_mode=loop_sustain loop_start=247820 loop_end=359538 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-81-127.wav
+<group> key=82 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=785 end=452095 loop_mode=loop_sustain loop_start=193069 loop_end=377427 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-82-127.wav
+<group> key=83 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=709 end=452607 loop_mode=loop_sustain loop_start=121767 loop_end=367801 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-83-127.wav
+<group> key=84 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=852 end=453119 loop_mode=loop_sustain loop_start=127612 loop_end=362071 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-84-127.wav
+<group> key=85 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=318 end=452095 loop_mode=loop_sustain loop_start=228833 loop_end=362654 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-85-127.wav
+<group> key=86 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=501 end=453119 loop_mode=loop_sustain loop_start=196440 loop_end=319673 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-86-127.wav
+<group> key=87 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=760 end=453119 loop_mode=loop_sustain loop_start=186390 loop_end=382054 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-87-127.wav
+<group> key=88 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=846 end=452095 loop_mode=loop_sustain loop_start=192710 loop_end=304472 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-88-127.wav
+<group> key=89 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=529 end=452607 loop_mode=loop_sustain loop_start=132250 loop_end=377957 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-89-127.wav
+<group> key=90 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=875 end=453119 loop_mode=loop_sustain loop_start=122770 loop_end=368458 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-90-127.wav
+<group> key=91 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=724 end=453119 loop_mode=loop_sustain loop_start=212011 loop_end=273583 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-91-127.wav
+<group> key=92 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=518 end=453119 loop_mode=loop_sustain loop_start=128786 loop_end=363357 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-92-127.wav
+<group> key=93 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=433 end=452607 loop_mode=loop_sustain loop_start=268339 loop_end=379933 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-93-127.wav
+<group> key=94 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=553 end=452095 loop_mode=loop_sustain loop_start=162521 loop_end=346807 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-94-127.wav
+<group> key=95 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=649 end=452607 loop_mode=loop_sustain loop_start=208593 loop_end=381729 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-95-127.wav
+<group> key=96 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=656 end=453119 loop_mode=loop_sustain loop_start=120239 loop_end=366119 sample=../Audio/Cry Baby-SAMPLES/045 Cry Baby-96-127.wav

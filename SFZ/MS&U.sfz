@@ -1,0 +1,124 @@
+// this file was generated from MS&U.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=554 end=451583 sample=../Audio/MS&U-SAMPLES/042 MS&U-36-127.wav
+<group> key=37 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=778 end=451583 sample=../Audio/MS&U-SAMPLES/042 MS&U-37-127.wav
+<group> key=38 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=581 end=451583 sample=../Audio/MS&U-SAMPLES/042 MS&U-38-127.wav
+<group> key=39 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=797 end=451071 sample=../Audio/MS&U-SAMPLES/042 MS&U-39-127.wav
+<group> key=40 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=852 end=452607 sample=../Audio/MS&U-SAMPLES/042 MS&U-40-127.wav
+<group> key=41 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=932 end=451583 sample=../Audio/MS&U-SAMPLES/042 MS&U-41-127.wav
+<group> key=42 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=710 end=451583 sample=../Audio/MS&U-SAMPLES/042 MS&U-42-127.wav
+<group> key=43 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=934 end=452095 sample=../Audio/MS&U-SAMPLES/042 MS&U-43-127.wav
+<group> key=44 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=810 end=452095 sample=../Audio/MS&U-SAMPLES/042 MS&U-44-127.wav
+<group> key=45 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=806 end=451583 sample=../Audio/MS&U-SAMPLES/042 MS&U-45-127.wav
+<group> key=46 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=660 end=452095 sample=../Audio/MS&U-SAMPLES/042 MS&U-46-127.wav
+<group> key=47 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=698 end=451583 sample=../Audio/MS&U-SAMPLES/042 MS&U-47-127.wav
+<group> key=48 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=558 end=451071 sample=../Audio/MS&U-SAMPLES/042 MS&U-48-127.wav
+<group> key=49 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=820 end=451583 sample=../Audio/MS&U-SAMPLES/042 MS&U-49-127.wav
+<group> key=50 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=564 end=451583 sample=../Audio/MS&U-SAMPLES/042 MS&U-50-127.wav
+<group> key=51 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=447 end=452095 sample=../Audio/MS&U-SAMPLES/042 MS&U-51-127.wav
+<group> key=52 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=684 end=451583 sample=../Audio/MS&U-SAMPLES/042 MS&U-52-127.wav
+<group> key=53 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=697 end=452095 sample=../Audio/MS&U-SAMPLES/042 MS&U-53-127.wav
+<group> key=54 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=673 end=451583 sample=../Audio/MS&U-SAMPLES/042 MS&U-54-127.wav
+<group> key=55 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=974 end=451583 sample=../Audio/MS&U-SAMPLES/042 MS&U-55-127.wav
+<group> key=56 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=876 end=451583 sample=../Audio/MS&U-SAMPLES/042 MS&U-56-127.wav
+<group> key=57 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=777 end=452095 sample=../Audio/MS&U-SAMPLES/042 MS&U-57-127.wav
+<group> key=58 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=544 end=451583 sample=../Audio/MS&U-SAMPLES/042 MS&U-58-127.wav
+<group> key=59 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=576 end=451583 sample=../Audio/MS&U-SAMPLES/042 MS&U-59-127.wav
+<group> key=60 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=563 end=451583 sample=../Audio/MS&U-SAMPLES/042 MS&U-60-127.wav
+<group> key=61 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=444 end=451583 sample=../Audio/MS&U-SAMPLES/042 MS&U-61-127.wav
+<group> key=62 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=661 end=451583 sample=../Audio/MS&U-SAMPLES/042 MS&U-62-127.wav
+<group> key=63 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=609 end=452095 sample=../Audio/MS&U-SAMPLES/042 MS&U-63-127.wav
+<group> key=64 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=713 end=451583 sample=../Audio/MS&U-SAMPLES/042 MS&U-64-127.wav
+<group> key=65 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=450 end=451583 sample=../Audio/MS&U-SAMPLES/042 MS&U-65-127.wav
+<group> key=66 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=767 end=451583 sample=../Audio/MS&U-SAMPLES/042 MS&U-66-127.wav
+<group> key=67 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=762 end=452095 sample=../Audio/MS&U-SAMPLES/042 MS&U-67-127.wav
+<group> key=68 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=554 end=451583 sample=../Audio/MS&U-SAMPLES/042 MS&U-68-127.wav
+<group> key=69 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=439 end=452607 sample=../Audio/MS&U-SAMPLES/042 MS&U-69-127.wav
+<group> key=70 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1038 end=452095 sample=../Audio/MS&U-SAMPLES/042 MS&U-70-127.wav
+<group> key=71 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=599 end=451583 sample=../Audio/MS&U-SAMPLES/042 MS&U-71-127.wav
+<group> key=72 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=667 end=452095 sample=../Audio/MS&U-SAMPLES/042 MS&U-72-127.wav
+<group> key=73 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=878 end=452095 sample=../Audio/MS&U-SAMPLES/042 MS&U-73-127.wav
+<group> key=74 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=800 end=452095 sample=../Audio/MS&U-SAMPLES/042 MS&U-74-127.wav
+<group> key=75 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=836 end=451583 sample=../Audio/MS&U-SAMPLES/042 MS&U-75-127.wav
+<group> key=76 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=840 end=452095 sample=../Audio/MS&U-SAMPLES/042 MS&U-76-127.wav
+<group> key=77 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=952 end=452095 sample=../Audio/MS&U-SAMPLES/042 MS&U-77-127.wav
+<group> key=78 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=793 end=452095 sample=../Audio/MS&U-SAMPLES/042 MS&U-78-127.wav
+<group> key=79 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=617 end=451583 sample=../Audio/MS&U-SAMPLES/042 MS&U-79-127.wav
+<group> key=80 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=521 end=451583 sample=../Audio/MS&U-SAMPLES/042 MS&U-80-127.wav
+<group> key=81 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=607 end=452095 sample=../Audio/MS&U-SAMPLES/042 MS&U-81-127.wav
+<group> key=82 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=585 end=452095 sample=../Audio/MS&U-SAMPLES/042 MS&U-82-127.wav
+<group> key=83 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=842 end=451583 sample=../Audio/MS&U-SAMPLES/042 MS&U-83-127.wav
+<group> key=84 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=551 end=451583 sample=../Audio/MS&U-SAMPLES/042 MS&U-84-127.wav
+<group> key=85 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=608 end=451583 sample=../Audio/MS&U-SAMPLES/042 MS&U-85-127.wav
+<group> key=86 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=638 end=452095 sample=../Audio/MS&U-SAMPLES/042 MS&U-86-127.wav
+<group> key=87 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=680 end=451583 sample=../Audio/MS&U-SAMPLES/042 MS&U-87-127.wav
+<group> key=88 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=945 end=452095 sample=../Audio/MS&U-SAMPLES/042 MS&U-88-127.wav
+<group> key=89 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=762 end=451583 sample=../Audio/MS&U-SAMPLES/042 MS&U-89-127.wav
+<group> key=90 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=558 end=452095 sample=../Audio/MS&U-SAMPLES/042 MS&U-90-127.wav
+<group> key=91 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=512 end=451071 sample=../Audio/MS&U-SAMPLES/042 MS&U-91-127.wav
+<group> key=92 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=643 end=451583 sample=../Audio/MS&U-SAMPLES/042 MS&U-92-127.wav
+<group> key=93 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=886 end=451583 sample=../Audio/MS&U-SAMPLES/042 MS&U-93-127.wav
+<group> key=94 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=916 end=452095 sample=../Audio/MS&U-SAMPLES/042 MS&U-94-127.wav
+<group> key=95 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=632 end=451583 sample=../Audio/MS&U-SAMPLES/042 MS&U-95-127.wav
+<group> key=96 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=475 end=451583 sample=../Audio/MS&U-SAMPLES/042 MS&U-96-127.wav

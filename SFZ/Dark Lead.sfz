@@ -1,0 +1,148 @@
+// this file was generated from Dark Lead.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=24 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=785 end=453631 loop_mode=loop_sustain loop_start=100011 loop_end=364260 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-24-127.wav
+<group> key=25 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1024 end=454655 loop_mode=loop_sustain loop_start=89847 loop_end=304880 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-25-127.wav
+<group> key=26 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=688 end=453631 loop_mode=loop_sustain loop_start=94302 loop_end=287720 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-26-127.wav
+<group> key=27 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=462 end=453631 loop_mode=loop_sustain loop_start=2494 loop_end=360844 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-27-127.wav
+<group> key=28 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=578 end=454143 loop_mode=loop_sustain loop_start=196208 loop_end=360037 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-28-127.wav
+<group> key=29 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=766 end=453631 loop_mode=loop_sustain loop_start=68113 loop_end=222696 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-29-127.wav
+<group> key=30 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=494 end=454143 loop_mode=loop_sustain loop_start=58798 loop_end=362036 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-30-127.wav
+<group> key=31 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=907 end=454143 loop_mode=loop_sustain loop_start=125866 loop_end=267202 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-31-127.wav
+<group> key=32 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=564 end=454655 loop_mode=loop_sustain loop_start=37423 loop_end=243427 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-32-127.wav
+<group> key=33 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=787 end=453631 loop_mode=loop_sustain loop_start=48037 loop_end=303024 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-33-127.wav
+<group> key=34 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=991 end=455167 loop_mode=loop_sustain loop_start=53404 loop_end=297134 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-34-127.wav
+<group> key=35 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=541 end=454143 loop_mode=loop_sustain loop_start=26966 loop_end=364896 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-35-127.wav
+<group> key=36 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=840 end=454655 loop_mode=loop_sustain loop_start=10051 loop_end=117277 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-36-127.wav
+<group> key=37 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=477 end=454143 loop_mode=loop_sustain loop_start=33835 loop_end=336145 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-37-127.wav
+<group> key=38 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=519 end=454143 loop_mode=loop_sustain loop_start=11693 loop_end=298252 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-38-127.wav
+<group> key=39 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=657 end=453631 loop_mode=loop_sustain loop_start=179115 loop_end=268149 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-39-127.wav
+<group> key=40 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=471 end=453631 loop_mode=loop_sustain loop_start=75919 loop_end=325888 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-40-127.wav
+<group> key=41 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=734 end=453631 loop_mode=loop_sustain loop_start=153552 loop_end=345305 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-41-127.wav
+<group> key=42 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=962 end=453119 loop_mode=loop_sustain loop_start=106536 loop_end=296082 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-42-127.wav
+<group> key=43 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=329 end=453119 loop_mode=loop_sustain loop_start=66183 loop_end=255858 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-43-127.wav
+<group> key=44 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=617 end=453119 loop_mode=loop_sustain loop_start=146455 loop_end=338036 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-44-127.wav
+<group> key=45 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=862 end=453119 loop_mode=loop_sustain loop_start=37673 loop_end=228121 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-45-127.wav
+<group> key=46 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=680 end=453119 loop_mode=loop_sustain loop_start=155162 loop_end=345449 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-46-127.wav
+<group> key=47 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=630 end=452607 loop_mode=loop_sustain loop_start=172903 loop_end=363873 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-47-127.wav
+<group> key=48 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=832 end=452095 loop_mode=loop_sustain loop_start=137997 loop_end=328296 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-48-127.wav
+<group> key=49 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=404 end=453119 loop_mode=loop_sustain loop_start=122672 loop_end=314307 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-49-127.wav
+<group> key=50 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=475 end=453119 loop_mode=loop_sustain loop_start=79929 loop_end=270368 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-50-127.wav
+<group> key=51 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=784 end=453119 loop_mode=loop_sustain loop_start=118600 loop_end=309056 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-51-127.wav
+<group> key=52 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=341 end=452095 loop_mode=loop_sustain loop_start=128398 loop_end=319328 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-52-127.wav
+<group> key=53 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=305 end=452607 loop_mode=loop_sustain loop_start=146058 loop_end=337764 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-53-127.wav
+<group> key=54 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=748 end=453119 loop_mode=loop_sustain loop_start=44416 loop_end=233490 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-54-127.wav
+<group> key=55 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=499 end=452095 loop_mode=loop_sustain loop_start=1652 loop_end=193505 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-55-127.wav
+<group> key=56 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=538 end=451071 loop_mode=loop_sustain loop_start=159303 loop_end=350102 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-56-127.wav
+<group> key=57 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=478 end=452095 loop_mode=loop_sustain loop_start=30012 loop_end=220462 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-57-127.wav
+<group> key=58 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1115 end=452095 loop_mode=loop_sustain loop_start=72144 loop_end=263944 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-58-127.wav
+<group> key=59 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=813 end=454143 loop_mode=loop_sustain loop_start=167013 loop_end=358305 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-59-127.wav
+<group> key=60 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=877 end=453119 loop_mode=loop_sustain loop_start=116960 loop_end=307597 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-60-127.wav
+<group> key=61 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=873 end=452607 loop_mode=loop_sustain loop_start=123212 loop_end=312961 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-61-127.wav
+<group> key=62 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=874 end=453119 loop_mode=loop_sustain loop_start=82622 loop_end=272749 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-62-127.wav
+<group> key=63 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=959 end=453119 loop_mode=loop_sustain loop_start=19474 loop_end=210208 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-63-127.wav
+<group> key=64 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=950 end=452607 loop_mode=loop_sustain loop_start=106544 loop_end=297210 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-64-127.wav
+<group> key=65 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=748 end=452095 loop_mode=loop_sustain loop_start=70958 loop_end=261218 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-65-127.wav
+<group> key=66 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=663 end=451583 loop_mode=loop_sustain loop_start=96639 loop_end=285930 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-66-127.wav
+<group> key=67 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=838 end=453119 loop_mode=loop_sustain loop_start=108184 loop_end=296908 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-67-127.wav
+<group> key=68 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=674 end=452095 loop_mode=loop_sustain loop_start=18194 loop_end=209841 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-68-127.wav
+<group> key=69 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=829 end=451583 loop_mode=loop_sustain loop_start=159113 loop_end=349559 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-69-127.wav
+<group> key=70 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=415 end=452095 loop_mode=loop_sustain loop_start=126567 loop_end=318738 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-70-127.wav
+<group> key=71 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=969 end=452095 loop_mode=loop_sustain loop_start=120825 loop_end=311614 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-71-127.wav
+<group> key=72 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=914 end=452607 loop_mode=loop_sustain loop_start=143401 loop_end=335044 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-72-127.wav
+<group> key=73 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=789 end=452607 loop_mode=loop_sustain loop_start=102444 loop_end=291870 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-73-127.wav
+<group> key=74 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=832 end=451583 loop_mode=loop_sustain loop_start=100831 loop_end=291124 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-74-127.wav
+<group> key=75 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=416 end=452095 loop_mode=loop_sustain loop_start=63255 loop_end=253569 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-75-127.wav
+<group> key=76 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=786 end=452095 loop_mode=loop_sustain loop_start=149908 loop_end=340180 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-76-127.wav
+<group> key=77 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=547 end=451583 loop_mode=loop_sustain loop_start=65639 loop_end=255762 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-77-127.wav
+<group> key=78 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=556 end=452095 loop_mode=loop_sustain loop_start=22742 loop_end=214509 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-78-127.wav
+<group> key=79 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=936 end=452095 loop_mode=loop_sustain loop_start=46460 loop_end=237311 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-79-127.wav
+<group> key=80 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=613 end=452607 loop_mode=loop_sustain loop_start=168301 loop_end=359927 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-80-127.wav
+<group> key=81 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=950 end=452095 loop_mode=loop_sustain loop_start=131336 loop_end=321593 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-81-127.wav
+<group> key=82 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=645 end=453119 loop_mode=loop_sustain loop_start=2643 loop_end=193217 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-82-127.wav
+<group> key=83 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=263 end=452095 loop_mode=loop_sustain loop_start=153948 loop_end=344388 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-83-127.wav
+<group> key=84 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=504 end=452095 loop_mode=loop_sustain loop_start=28731 loop_end=218961 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-84-127.wav
+<group> key=85 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=743 end=452095 loop_mode=loop_sustain loop_start=53639 loop_end=244642 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-85-127.wav
+<group> key=86 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=938 end=451583 loop_mode=loop_sustain loop_start=168417 loop_end=358703 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-86-127.wav
+<group> key=87 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=634 end=452095 loop_mode=loop_sustain loop_start=128386 loop_end=318836 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-87-127.wav
+<group> key=88 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=955 end=452607 loop_mode=loop_sustain loop_start=140097 loop_end=330431 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-88-127.wav
+<group> key=89 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=626 end=452095 loop_mode=loop_sustain loop_start=98467 loop_end=288715 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-89-127.wav
+<group> key=90 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=451 end=452095 loop_mode=loop_sustain loop_start=74087 loop_end=265631 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-90-127.wav
+<group> key=91 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=798 end=452607 loop_mode=loop_sustain loop_start=87420 loop_end=278218 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-91-127.wav
+<group> key=92 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=707 end=451583 loop_mode=loop_sustain loop_start=165262 loop_end=356320 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-92-127.wav
+<group> key=93 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=876 end=452607 loop_mode=loop_sustain loop_start=29382 loop_end=219683 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-93-127.wav
+<group> key=94 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=738 end=452607 loop_mode=loop_sustain loop_start=126810 loop_end=317377 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-94-127.wav
+<group> key=95 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=978 end=452095 loop_mode=loop_sustain loop_start=158636 loop_end=349206 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-95-127.wav
+<group> key=96 group=1 off_by=1 polyphony=1 off_mode=fast seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=980 end=452095 loop_mode=loop_sustain loop_start=171406 loop_end=361833 sample=../Audio/Dark Lead-SAMPLES/010 Dark Lead-96-127.wav

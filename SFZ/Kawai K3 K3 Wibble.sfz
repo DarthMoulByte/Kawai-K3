@@ -1,0 +1,124 @@
+// this file was generated from Kawai K3 K3 Wibble.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=138442 loop_end=243586 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-36-127-CONH.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=153594 loop_end=273255 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-37-127-IJKY.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=72682 loop_end=228826 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-38-127-BPV2.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=25112 loop_end=104543 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-39-127-AQ7N.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=141183 loop_end=285685 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-40-127-K90Q.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=25577 loop_end=92253 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-41-127-A85U.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=110247 loop_end=240915 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-42-127-JXN2.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=56923 loop_end=276600 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-43-127-V3VG.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=60283 loop_end=306684 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-44-127-0P5R.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=106090 loop_end=170261 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-45-127-F8B2.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=151498 loop_end=293781 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-46-127-1P7M.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=136476 loop_end=305757 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-47-127-3XNP.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=5564 loop_end=279296 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-48-127-EVYG.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=668 loop_end=169940 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-49-127-F1XG.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=52289 loop_end=285956 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-50-127-5ZXL.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=54441 loop_end=263634 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-51-127-460L.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=61613 loop_end=308337 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-52-127-3WSA.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=102265 loop_end=168945 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-53-127-T47K.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=75631 loop_end=309246 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-54-127-BKBU.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=194179 loop_end=298588 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-55-127-H10Y.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=51808 loop_end=285430 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-56-127-KMH9.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=12641 loop_end=259596 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-57-127-79JO.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=130262 loop_end=299048 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-58-127-KFTA.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=36979 loop_end=165918 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-59-127-H814.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=5230 loop_end=292122 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-60-127-G8DG.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=24423 loop_end=220107 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-61-127-1A97.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=31518 loop_end=291632 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-62-127-49AC.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=11485 loop_end=285045 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-63-127-EWKH.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=21072 loop_end=307930 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-64-127-X4Q5.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=51326 loop_end=115978 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-65-127-MKC3.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=42645 loop_end=289384 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-66-127-V8CU.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=124876 loop_end=293854 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-67-127-CJPY.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=2728 loop_end=302835 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-68-127-K7QL.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=130972 loop_end=262073 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-69-127-PECM.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=275 loop_end=260258 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-70-127-YLQG.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=3416 loop_end=290229 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-71-127-MV5H.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=9170 loop_end=73564 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-72-127-WCS6.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=21659 loop_end=112820 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-73-127-8384.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=149406 loop_end=253931 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-74-127-FFYA.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=3981 loop_end=290726 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-75-127-XK89.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=165596 loop_end=294574 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-76-127-0O9Z.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=3048 loop_end=67573 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-77-127-XACY.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=192551 loop_end=257035 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-78-127-L85X.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=19424 loop_end=279531 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-79-127-GMX5.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=48133 loop_end=294930 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-80-127-KGI4.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=198759 loop_end=289868 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-81-127-0AGK.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=155672 loop_end=246779 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-82-127-WRTL.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=22498 loop_end=295918 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-83-127-ZCSG.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=27622 loop_end=274404 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-84-127-3X51.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=58953 loop_end=214626 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-85-127-NNRB.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=157643 loop_end=288752 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-86-127-IU34.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=62642 loop_end=204950 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-87-127-LYZV.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=33689 loop_end=293723 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-88-127-BQ2Q.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=39690 loop_end=286434 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-89-127-SD1W.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=61374 loop_end=294761 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-90-127-7B15.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=989 loop_end=274428 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-91-127-UCV0.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=32363 loop_end=292435 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-92-127-LF1K.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=51240 loop_end=298005 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-93-127-6O0Y.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=7159 loop_end=280528 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-94-127-M39C.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=37616 loop_end=271032 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-95-127-ZKEF.aif
+<group> key=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=68659 loop_end=302081 sample=../Audio/Kawai K3 K3 Wibble-SAMPLES/K3 Wibble-96-127-3GA2.aif

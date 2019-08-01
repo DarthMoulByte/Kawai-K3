@@ -1,0 +1,4 @@
+// this file was generated from 030 Dark Wobble-25-127.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=127 pitch_keycenter=60 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=461823 loop_mode=loop_sustain loop_start=353581 loop_end=396392 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-25-127.wav
